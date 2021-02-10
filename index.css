@@ -3,7 +3,7 @@ body{
     margin: 0;
     background: url(3.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    
     align-items: center;
     align-content: center;
     justify-content: space-between;
